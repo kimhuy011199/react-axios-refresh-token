@@ -1,0 +1,8 @@
+{
+  "clientUrl": "http://localhost:3000",
+  "accessTokenSecret": "access-token-secret",
+  "refreshTokenSecret": "refresh-token-secret",
+  "port": 5002,
+  "accessTokenLife": 10,
+  "refreshTokenLife": 86400
+}
